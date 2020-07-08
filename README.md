@@ -1,3 +1,3 @@
 # Autonomous Driving Controller Design
-Robust lateral control result with lane change 
-![alt text](./imgs/output.gif)
+## Robust PID lateral control result(with lane change)
+![alt text](./imgs/lateral_lc.gif)
