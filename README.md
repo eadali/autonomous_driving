@@ -1,8 +1,6 @@
-# autonomous_driving
-Autonomous driving control algorithm results
-Robust lane keeping 
+# Autonomous Driving Controller Design
+Robust lateral control result with lane change
 <br/>
 <br/>
 Eye state prediction framework result:  
-![alt text](./output.gif)
-![alt text](./imgs/lateral_lc.gif)
+![alt text](./imgs/output.gif)
